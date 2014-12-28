@@ -1,7 +1,7 @@
 // ####################################################################
 // JavaScript functions
 // For kernelultras 0.0.1
-// (D.M.Y) 31.07.2011
+// (D.M.Y) 08.12.2014
 // Author: Mário Chorváth - Bedna
 // ####################################################################
 // var autocmpCMD = ["say", "says", "cat", "nano", "nat", "nas", "name", "nagets", "nar", "nak", "narrow", "niiic", "niiie", "eat"];
@@ -80,7 +80,6 @@ function keyHandler(e) {
 						// Compare matches
 						if (matches[0].substring (0, j) == matches[i].substring (0, j)) {
 							tempPosition = j;
-							// console.log (matches[0].substring (0, j));
 						}
 					}
 					// Search match in all matchces (Select minimal)

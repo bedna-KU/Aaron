@@ -2,7 +2,7 @@
   [td]NAME[/td]
 [/tr]
 [tr]
-  [td][/td][td][b]ct[/b] - change template (N)[/td]
+  [td][/td][td][b]ct[/b] - change theme (N)[/td]
 [/tr]
 [tr]
   [td]SYNOPSIS[/td]

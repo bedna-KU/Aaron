@@ -2,7 +2,7 @@
   [td]NAME[/td]
 [/tr]
 [tr]
-  [td][/td][td][b]ls[/b] - list web content for robots (N)[/td]
+  [td][/td][td][b]lshref[/b] - list web content for robots (N)[/td]
 [/tr]
 [tr]
   [td]SYNOPSIS[/td]

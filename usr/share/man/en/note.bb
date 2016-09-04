@@ -29,7 +29,7 @@
   [td][/td][td]show all notes [b]note[/b][/td]
 [/tr]
 [tr]
-  [td][/td][td]create new note (max 1024chars), [b]note -n morning to the dentist[/b][/td]
+  [td][/td][td]create new note (max 1024chars), [b]note -a morning to the dentist[/b][/td]
 [/tr]
 [tr]
   [td][/td][td]remove note number one (1.note), [b]note -r1[/b][/td]

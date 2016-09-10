@@ -212,8 +212,8 @@ function human_seconds ($seconds) {
 // Prevedie byty v ľudsky čitateľnom formáte na byty
 function human_to_bytes ($from) {
 
-// Ak je reťaze v IPv4 format vráti 4
-// Ak je reťaze v IPv6 format vráti 6
+// Ak je reťazec v IPv4 format vráti 4
+// Ak je reťazec v IPv6 format vráti 6
 // Inak vráti FALSE
 function is_ip ($ip) {
 

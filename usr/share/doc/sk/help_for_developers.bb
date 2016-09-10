@@ -206,7 +206,7 @@ function bytes_to_units ($bytes, $unit) {
 // Vráti byty v ľudsky čitateľnom formáte
 function human_bytes ($bytes) {
 
-// Wráti sekundy vo formáte Hodiny:minúty:sekundy
+// Vráti sekundy vo formáte Hodiny:minúty:sekundy
 function human_seconds ($seconds) {
 
 // Prevedie byty v ľudsky čitateľnom formáte na byty

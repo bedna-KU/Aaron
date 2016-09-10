@@ -64,8 +64,8 @@ Premenná $return["step"] sa používa, ak potrebujete funkciu ktorá potrebuje 
 V premennej $return["step"] si predávame ďalší krok, ako napríklad:
 
 [code]...
-$return["output"] = "Prvý krok";
-$return["step"] = "dryhy_krok";
+$return["output"] = "prvy_krok";
+$return["step"] = "druhy_krok";
 return $return;
 ...[/code]
 

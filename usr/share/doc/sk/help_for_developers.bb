@@ -18,7 +18,7 @@ function hw__ ($shell_option, $shell_data, $input, $step, $echo) {
 	return $return;
 }[/code]
 
-Za názvom dunkcie je vždy dvojité podtržítko, aby sa dali použiť ako názov aj rezervované slová.
+Za názvom funkcie je vždy dvojité podtržítko, aby sa dali použiť ako názov aj rezervované slová.
 Subor sa ukladá do priečinku [b]/bin/commands[/b], ale už bez podtržítiek,
 takže v našom prípade ako [b]/bin/commands/hw.php[/b]
 
